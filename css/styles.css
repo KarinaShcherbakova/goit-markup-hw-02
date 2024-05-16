@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -68,7 +68,7 @@ ul {
 .hero-title {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -115,7 +115,7 @@ ul {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -149,7 +149,7 @@ ul {
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -182,7 +182,7 @@ ul {
 .footer-logo-part {
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
