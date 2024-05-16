@@ -79,7 +79,7 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     cursor: pointer;
 }
 .hero-button:hover,
@@ -147,15 +147,16 @@ ul {
 .portfolio {
 }
 .portfolio-title {
-    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .portfolio-list {
+    background-color: #FFFFFF
 }
 .portfolio-item {
     background-color: #FFFFFF;
